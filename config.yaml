@@ -1,0 +1,6 @@
+tests:
+  defaults:
+    min_pass_rate: 0.7
+  bias:
+    replace_to_white_lastnames:
+      min_pass_rate: 0.7
